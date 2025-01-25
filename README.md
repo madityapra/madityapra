@@ -4,7 +4,7 @@ Welcome to my github profile I'm Aditya, IT Security Enthusiast & Frontend Devel
 
 ## 🔧 I'm learning...
 
-![JavaScript](https://img.shields.io/badge/JavaScript-505050?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-505050?style=for-the-badge&logo=react&logoColor=#88dded) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-505050?style=for-the-badge&logo=tailwind-css&logoColor=#88dded) ![Figma](https://img.shields.io/badge/figma-505050?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-505050?style=for-the-badge&logo=typescript&logoColor=#3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-505050?style=for-the-badge&logo=javascript&logoColor=#F7DF1E) ![React](https://img.shields.io/badge/React-505050?style=for-the-badge&logo=react&logoColor=#88dded) ![HTML5](https://img.shields.io/badge/HTML5-505050?style=for-the-badge&logo=html5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/CSS3-505050?style=for-the-badge&logo=css3&logoColor=#88dded) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-505050?style=for-the-badge&logo=tailwind-css&logoColor=#88dded) ![Figma](https://img.shields.io/badge/figma-505050?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔗 Tools...
 
